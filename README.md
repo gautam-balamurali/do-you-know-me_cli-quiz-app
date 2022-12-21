@@ -1,9 +1,15 @@
 # do-you-know-me_cli-quiz-app
 
-A CLI Quiz App to find out who really knows me.
+A CLI Quiz App to find out who really knows me. The rules are simple. There will be 10 questions and for each correct answer you will be rewarded with 1 point.
 
-This is a levelZero markOne project of [neogCamp.](https://neog.camp/guide/lessonone)
+# Tech Stack
+
+* JavaScript
+* Replit
 
 # Preview
 
-[Do You Know Me?](https://replit.com/@gautamBm/Do-you-know-me-CLI-Quiz-App?embed=1&output=1)
+[View live](https://replit.com/@gautamBm/Do-you-know-me-CLI-Quiz-App?embed=1&output=1)
+
+# License
+[View license](https://github.com/gautam-balamurali/do-you-know-me_cli-quiz-app/blob/main/LICENSE.md)
