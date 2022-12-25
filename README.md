@@ -1,6 +1,7 @@
 # do-you-know-me_cli-quiz-app
 
-A CLI Quiz App to find out who really knows me. The rules are simple. There will be 10 questions and for each correct answer you will be rewarded with 1 point.
+* A CLI Quiz App to find out who really knows me. 
+* The rules are simple. There will be 10 questions and for each correct answer you will be rewarded with 1 point.
 
 # Snapshots
 
